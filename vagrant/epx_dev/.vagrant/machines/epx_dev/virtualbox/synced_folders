@@ -1,0 +1,1 @@
+{"virtualbox":{"/opt/demo":{"guestpath":"/opt/demo","hostpath":"/Users/direwolf/Repoz/mp-serverless-kinesis-demo/services","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/direwolf/Repoz/mp-serverless-kinesis-demo/vagrant/epx_dev","disabled":false,"__vagrantfile":true}}}
